@@ -560,7 +560,7 @@
     "counters_pair": []
   },
   "Stuart": {
-    "img": "static/Stuart.jpg",
+    "img": "static/stuart.jpg",
     "roles": ["Xạ Thủ"],
     "counters_pair": []
   },
@@ -605,7 +605,7 @@
     "counters_pair": []
   },
   "Annette": {
-    "img": "static/Annette.jpg",
+    "img": "static/annette.jpg",
     "roles": ["Trợ Thủ", "Pháp Sư"],
     "counters_pair": []
   },
@@ -655,7 +655,7 @@
     "counters_pair": []
   },
   "TeeMee": {
-    "img": "static/teeMee.jpg",
+    "img": "static/teemee.jpg",
     "roles": ["Trợ Thủ", "Đỡ Đòn"],
     "counters_pair": []
   },
