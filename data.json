@@ -1,68 +1,68 @@
 {
   "Allain": {
-    "img": "static/Allain.jpg",
+    "img": "static/allain.jpg",
     "roles": ["Đấu Sĩ"],
     "counters_pair": []
   },
   "Amily": {
-    "img": "static/Amily.jpg",
+    "img": "static/amily.jpg",
     "roles": ["Đấu Sĩ"],
     "counters_pair": []
   },
   "Arduin": {
-    "img": "static/Arduin.jpg",
+    "img": "static/arduin.jpg",
     "roles": ["Đấu Sĩ", "Đỡ Đòn"],
     "counters_pair": []
   },
   "Arthur": {
-    "img": "static/Arthur.jpg",
+    "img": "static/arthur.jpg",
     "roles": ["Đấu Sĩ"],
     "counters_pair": []
   },
   "Astrid": {
-    "img": "static/Astrid.jpg",
+    "img": "static/astrid.jpg",
     "roles": ["Đấu Sĩ", "Sát Thủ"],
     "counters_pair": []
   },
   "Ata": {
-    "img": "static/Ata.jpg",
+    "img": "static/ata.jpg",
     "roles": ["Đấu Sĩ"],
     "counters_pair": []
   },
   "Bijian": {
-    "img": "static/Bijian.jpg",
+    "img": "static/bijian.jpg",
     "roles": ["Đấu Sĩ"],
     "counters_pair": []
   },
   "Biron": {
-    "img": "static/Biron.jpg",
+    "img": "static/biron.jpg",
     "roles": ["Đấu Sĩ", "Đỡ Đòn"],
     "counters_pair": []
   },
   "Charlotte": {
-    "img": "static/Charlotte.jpg",
+    "img": "static/charlotte.jpg",
     "roles": ["Đấu Sĩ"],
     "counters_pair": []
   },
   "Dextra": {
-    "img": "static/Dextra.jpg",
+    "img": "static/dextra.jpg",
     "roles": ["Đấu Sĩ", "Đỡ Đòn"],
     "counters_pair": []
   },
   "Edras": {
-    "img": "static/Edras.jpg",
+    "img": "static/edras.jpg",
     "roles": ["Đấu Sĩ"],
     "counters_pair": [
       [["Edras", "Capheny"], ["Rourke", "Yue"]]
     ]
   },
   "Errol": {
-    "img": "static/Errol.jpg",
+    "img": "static/errol.jpg",
     "roles": ["Đấu Sĩ"],
     "counters_pair": []
   },
   "Florentino": {
-    "img": "static/Florentino.jpg",
+    "img": "static/florentino.jpg",
     "roles": ["Đấu Sĩ"],
     "counters_pair": [
       ["Arum", "Aleister"],
@@ -80,66 +80,66 @@
     "counters_pair": []
   },
   "Maloch": {
-    "img": "static/Maloch.jpg",
+    "img": "static/maloch.jpg",
     "roles": ["Đấu Sĩ", "Đỡ Đòn"],
     "counters_pair": []
   },
   "Omen": {
-    "img": "static/Omen.jpg",
+    "img": "static/omen.jpg",
     "roles": ["Đấu Sĩ"],
     "counters_pair": []
   },
   "Ormarr": {
-    "img": "static/Ormarr.jpg",
+    "img": "static/ormarr.jpg",
     "roles": ["Đấu Sĩ", "Trợ Thủ"],
     "counters_pair": []
   },
   "Qi": {
-    "img": "static/Qi.jpg",
+    "img": "static/qi.jpg",
     "roles": ["Đấu Sĩ", "Sát Thủ"],
     "counters_pair": []
   },
   "Richter": {
-    "img": "static/Richter.jpg",
+    "img": "static/richter.jpg",
     "roles": ["Đấu Sĩ"],
     "counters_pair": []
   },
   "Rourke": {
-    "img": "static/Rourke.jpg",
+    "img": "static/rourke.jpg",
     "roles": ["Đấu Sĩ"],
     "counters_pair": [
       [["Rourke", "Yue"], ["Lorion"]]
     ]
   },
   "Roxie": {
-    "img": "static/Roxie.jpg",
+    "img": "static/roxie.jpg",
     "roles": ["Đấu Sĩ", "Đỡ Đòn"],
     "counters_pair": []
   },
   "Ryoma": {
-    "img": "static/Ryoma.jpg",
+    "img": "static/ryoma.jpg",
     "roles": ["Đấu Sĩ", "Sát Thủ"],
     "counters_pair": [
       [["Ryoma", "Y'bneth"], ["Hayate", "TeeMee"]]
     ]
   },
   "Skud": {
-    "img": "static/Skud.jpg",
+    "img": "static/skud.jpg",
     "roles": ["Đấu Sĩ", "Đỡ Đòn"],
     "counters_pair": []
   },
   "Superman": {
-    "img": "static/Superman.jpg",
+    "img": "static/superman.jpg",
     "roles": ["Đấu Sĩ"],
     "counters_pair": []
   },
   "Tachi": {
-    "img": "static/Tachi.jpg",
+    "img": "static/tachi.jpg",
     "roles": ["Đấu Sĩ"],
     "counters_pair": []
   },
   "Tamyn": {
-    "img": "static/Tamyn.jpg",
+    "img": "static/tamyn.jpg",
     "roles": ["Đấu Sĩ"],
     "counters_pair": []
   },
@@ -149,104 +149,104 @@
     "counters_pair": []
   },
   "Veres": {
-    "img": "static/Veres.jpg",
+    "img": "static/veres.jpg",
     "roles": ["Đấu Sĩ"],
     "counters_pair": []
   },
   "Volkath": {
-    "img": "static/Volkath.jpg",
+    "img": "static/volkath.jpg",
     "roles": ["Đấu Sĩ", "Sát Thủ"],
     "counters_pair": []
   },
   "Wonder Woman": {
-    "img": "static/Wonder Woman.jpg",
+    "img": "static/wonder woman.jpg",
     "roles": ["Đấu Sĩ"],
     "counters_pair": []
   },
   "Yan": {
-    "img": "static/Yan.jpg",
+    "img": "static/yan.jpg",
     "roles": ["Đấu Sĩ", "Sát Thủ"],
     "counters_pair": []
   },
   "Yena": {
-    "img": "static/Yena.jpg",
+    "img": "static/yena.jpg",
     "roles": ["Đấu Sĩ"],
     "counters_pair": []
   },
   "Zephys": {
-    "img": "static/Zephys.jpg",
+    "img": "static/zephys.jpg",
     "roles": ["Đấu Sĩ", "Sát Thủ"],
     "counters_pair": []
   },
   "Zuka": {
-    "img": "static/Zuka.jpg",
+    "img": "static/zuka.jpg",
     "roles": ["Đấu Sĩ", "Sát Thủ"],
     "counters_pair": []
   },
   "Arum": {
-    "img": "static/Arum.jpg",
+    "img": "static/arum.jpg",
     "roles": ["Đỡ Đòn", "Trợ Thủ"],
     "counters_pair": []
   },
   "Baldum": {
-    "img": "static/Baldum.jpg",
+    "img": "static/baldum.jpg",
     "roles": ["Đỡ Đòn", "Trợ Thủ"],
     "counters_pair": []
   },
   "Cresht": {
-    "img": "static/Cresht.jpg",
+    "img": "static/cresht.jpg",
     "roles": ["Đỡ Đòn", "Trợ Thủ"],
     "counters_pair": []
   },
   "Grakk": {
-    "img": "static/Grakk.jpg",
+    "img": "static/grakk.jpg",
     "roles": ["Đỡ Đòn", "Trợ Thủ"],
     "counters_pair": []
   },
   "Lumburr": {
-    "img": "static/Lumburr.jpg",
+    "img": "static/lumburr.jpg",
     "roles": ["Đỡ Đòn", "Trợ Thủ"],
     "counters_pair": []
   },
   "Max": {
-    "img": "static/Max.jpg",
+    "img": "static/max.jpg",
     "roles": ["Đỡ Đòn"],
     "counters_pair": []
   },
   "Omega": {
-    "img": "static/Omega.jpg",
+    "img": "static/omega.jpg",
     "roles": ["Đỡ Đòn", "Trợ Thủ"],
     "counters_pair": []
   },
   "Taara": {
-    "img": "static/Taara.jpg",
+    "img": "static/taara.jpg",
     "roles": ["Đỡ Đòn", "Đấu Sĩ"],
     "counters_pair": [
       [["Taara", "Lorion"], ["Nakroth", "Natalya"]]
     ]
   },
   "Thane": {
-    "img": "static/Thane.jpg",
+    "img": "static/thane.jpg",
     "roles": ["Đỡ Đòn"],
     "counters_pair": []
   },
   "Toro": {
-    "img": "static/Toro.jpg",
+    "img": "static/toro.jpg",
     "roles": ["Đỡ Đòn", "Trợ Thủ"],
     "counters_pair": []
   },
   "Wiro": {
-    "img": "static/Wiro.jpg",
+    "img": "static/wiro.jpg",
     "roles": ["Đỡ Đòn", "Đấu Sĩ"],
     "counters_pair": []
   },
   "Y'bneth": {
-    "img": "static/Y'bneth.jpg",
+    "img": "static/y'bneth.jpg",
     "roles": ["Đỡ Đòn"],
     "counters_pair": []
   },
   "Mina": {
-    "img": "static/Mina.jpg",
+    "img": "static/mina.jpg",
     "roles": ["Đỡ Đòn", "Trợ Thủ"],
     "counters_pair": []
   },
@@ -424,12 +424,12 @@
     "counters_pair": []
   },
   "Airi": {
-    "img": "static/Airi.jpg",
+    "img": "static/airi.jpg",
     "roles": ["Sát Thủ"],
     "counters_pair": []
   },
   "Aoi": {
-    "img": "static/Aoi.jpg",
+    "img": "static/aoi.jpg",
     "roles": ["Sát Thủ"],
     "counters_pair": []
   },
@@ -439,59 +439,59 @@
     "counters_pair": []
   },
   "Butterfly": {
-    "img": "static/Butterfly.jpg",
+    "img": "static/butterfly.jpg",
     "roles": ["Sát Thủ", "Đấu Sĩ"],
     "counters_pair": []
   },
   "Enzo": {
-    "img": "static/Enzo.jpg",
+    "img": "static/enzo.jpg",
     "roles": ["Sát Thủ"],
     "counters_pair": []
   },
   "Kaine": {
-    "img": "static/Kaine.jpg",
+    "img": "static/kaine.jpg",
     "roles": ["Sát Thủ"],
     "counters_pair": []
   },
   "Keera": {
-    "img": "static/Keera.jpg",
+    "img": "static/keera.jpg",
     "roles": ["Sát Thủ"],
     "counters_pair": []
   },
   "Kriknak": {
-    "img": "static/Kriknak.jpg",
+    "img": "static/kriknak.jpg",
     "roles": ["Sát Thủ"],
     "counters_pair": []
   },
   "Murad": {
-    "img": "static/Murad.jpg",
+    "img": "static/murad.jpg",
     "roles": ["Sát Thủ"],
     "counters_pair": []
   },
   "Nakroth": {
-    "img": "static/Nakroth.jpg",
+    "img": "static/nakroth.jpg",
     "roles": ["Sát Thủ"],
     "counters_pair": [
       [["Nakroth", "Natalya"], ["Billow"]]
     ]
   },
   "Ngộ Không": {
-    "img": "static/Ngộ Không.jpg",
+    "img": "static/ngộ không.jpg",
     "roles": ["Sát Thủ"],
     "counters_pair": []
   },
   "Paine": {
-    "img": "static/Paine.jpg",
+    "img": "static/paine.jpg",
     "roles": ["Sát Thủ"],
     "counters_pair": []
   },
   "Quillen": {
-    "img": "static/Quillen.jpg",
+    "img": "static/quillen.jpg",
     "roles": ["Sát Thủ"],
     "counters_pair": []
   },
   "Sinestrea": {
-    "img": "static/Sinestrea.jpg",
+    "img": "static/sinestrea.jpg",
     "roles": ["Sát Thủ"],
     "counters_pair": []
   },
@@ -528,7 +528,7 @@
     "counters_pair": []
   },
   "Fennik": {
-    "img": "static/Fennik.jpg",
+    "img": "static/fennik.jpg",
     "roles": ["Xạ Thủ"],
     "counters_pair": []
   },
@@ -550,12 +550,12 @@
     "counters_pair": []
   },
   "Moren": {
-    "img": "static/Moren.jpg",
+    "img": "static/moren.jpg",
     "roles": ["Xạ Thủ"],
     "counters_pair": []
   },
   "Slimz": {
-    "img": "static/Slimz.jpg",
+    "img": "static/slimz.jpg",
     "roles": ["Xạ Thủ"],
     "counters_pair": []
   },
@@ -570,7 +570,7 @@
     "counters_pair": []
   },
   "Tel'Annas": {
-    "img": "static/Tel'Annas.jpg",
+    "img": "static/tel'annas.jpg",
     "roles": ["Xạ Thủ"],
     "counters_pair": []
   },
@@ -580,12 +580,12 @@
     "counters_pair": []
   },
   "Valhein": {
-    "img": "static/Valhein.jpg",
+    "img": "static/valhein.jpg",
     "roles": ["Xạ Thủ"],
     "counters_pair": []
   },
   "Violet": {
-    "img": "static/Violet.jpg",
+    "img": "static/violet.jpg",
     "roles": ["Xạ Thủ"],
     "counters_pair": []
   },
@@ -595,12 +595,12 @@
     "counters_pair": []
   },
   "Yorn": {
-    "img": "static/Yorn.jpg",
+    "img": "static/yorn.jpg",
     "roles": ["Xạ Thủ"],
     "counters_pair": []
   },
   "Alice": {
-    "img": "static/Alice.jpg",
+    "img": "static/alice.jpg",
     "roles": ["Trợ Thủ"],
     "counters_pair": []
   },
@@ -610,62 +610,62 @@
     "counters_pair": []
   },
   "Aya": {
-    "img": "static/Aya.jpg",
+    "img": "static/aya.jpg",
     "roles": ["Trợ Thủ"],
     "counters_pair": []
   },
   "Chaugnar": {
-    "img": "static/Chaugnar.jpg",
+    "img": "static/chaugnar.jpg",
     "roles": ["Trợ Thủ", "Đỡ Đòn"],
     "counters_pair": []
   },
   "Dolia": {
-    "img": "static/Dolia.jpg",
+    "img": "static/dolia.jpg",
     "roles": ["Trợ Thủ"],
     "counters_pair": []
   },
   "Dyadia": {
-    "img": "static/Dyadia.jpg",
+    "img": "static/dyadia.jpg",
     "roles": ["Trợ Thủ", "Pháp Sư"],
     "counters_pair": []
   },
   "Helen": {
-    "img": "static/Helen.jpg",
+    "img": "static/helen.jpg",
     "roles": ["Trợ Thủ"],
     "counters_pair": []
   },
   "Krizzix": {
-    "img": "static/Krizzix.jpg",
+    "img": "static/krizzix.jpg",
     "roles": ["Trợ Thủ"],
     "counters_pair": []
   },
   "Ming": {
-    "img": "static/Ming.jpg",
+    "img": "static/ming.jpg",
     "roles": ["Trợ Thủ"],
     "counters_pair": []
   },
   "Rouie": {
-    "img": "static/Rouie.jpg",
+    "img": "static/rouie.jpg",
     "roles": ["Trợ Thủ"],
     "counters_pair": []
   },
   "Sephera": {
-    "img": "static/Sephera.jpg",
+    "img": "static/sephera.jpg",
     "roles": ["Trợ Thủ", "Pháp Sư"],
     "counters_pair": []
   },
   "TeeMee": {
-    "img": "static/TeeMee.jpg",
+    "img": "static/teeMee.jpg",
     "roles": ["Trợ Thủ", "Đỡ Đòn"],
     "counters_pair": []
   },
   "Xeniel": {
-    "img": "static/Xeniel.jpg",
+    "img": "static/xeniel.jpg",
     "roles": ["Trợ Thủ", "Đỡ Đòn"],
     "counters_pair": []
   },
   "Zip": {
-    "img": "static/Zip.jpg",
+    "img": "static/zip.jpg",
     "roles": ["Trợ Thủ"],
     "counters_pair": []
   }
